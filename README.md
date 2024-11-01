@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Haihaycode</h1>
-<h3 align="center">I am a Java programmer and a passionate frontend developer from Vietnam. I am exploring other languages, including PHP, React, and Vue.js. I enjoy building responsive and dynamic web applications that enhance user experiences.</h3>
+<p align="center">I am a  Software Engineer </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=haihaycode&label=Profile%20views&color=0e75b6&style=flat" alt="haihaycode" /> </p>
 
